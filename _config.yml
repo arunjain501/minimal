@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Arun Jain
+logo: /assets/img/Test-Icon.jpg
+description: Learning ML & AI
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
